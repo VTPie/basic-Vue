@@ -8,7 +8,12 @@
     List component: Computed
     Demo: <Computed/>
 
-## Lifecycle Hook
+## Lifecycle Hooks
 
     List component: lifecycle-hook
+    Demo: <lifecycleHook></lifecycleHook>
+
+## Built-in directives
+
+    List component: directive
     Demo: <lifecycleHook></lifecycleHook>
